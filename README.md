@@ -17,6 +17,8 @@ This repository contains my LeetCode solutions categorized by topic.
 - Greedy
 - Binary Search
 - Bit Manipulation
+- Backtracking
+- Dynamic Programming
 
 ## Stats
 
