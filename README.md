@@ -2,10 +2,10 @@
 
 This repository contains my LeetCode solutions categorized by topic.
 
-# Language
+## Language
 - Java
 
-# Topics Covered Till Now
+## Topics Covered Till Now
 
 - Arrays
 - Strings
@@ -18,7 +18,7 @@ This repository contains my LeetCode solutions categorized by topic.
 - Binary Search
 - Bit Manipulation
 
-# Stats
+## Stats
 
 Total Problems Solved: 240+
 
