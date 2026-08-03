@@ -25,5 +25,5 @@ This repository contains my LeetCode solutions categorized by topic.
 Total Problems Solved: 250+
 
 Easy: 198
-Medium: 52
-Hard: 0
+Medium: 56
+Hard: 1
