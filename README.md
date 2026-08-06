@@ -15,10 +15,7 @@ This repository contains my LeetCode solutions categorized by topic.
 - Queue
 - Trees
 - Greedy
-- Binary Search
 - Bit Manipulation
-- Backtracking
-- Dynamic Programming
 
 ## Stats
 
