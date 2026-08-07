@@ -19,8 +19,8 @@ This repository contains my LeetCode solutions categorized by topic.
 
 ## Stats
 
-Total Problems Solved: 250+
+Total Problems Solved: 260+
 
 Easy: 198
-Medium: 57
+Medium: 62
 Hard: 1
