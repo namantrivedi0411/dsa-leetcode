@@ -11,9 +11,7 @@ class Solution {
             m.get(id).add(min);
         }
         for(HashSet<Integer> set:m.values()){
-            if(set.size()!=0){
-                ans[set.size()-1]++;
-            }
+            ans[set.size()-1]++;
         }
         return ans;
     }
